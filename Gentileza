@@ -1,0 +1,20 @@
+public class Main
+{
+  public static void main(String[] args) {
+    System.out.println("josue_aguete-filho@estudante.sc.senai.br");
+    int a = 8;
+    int b = 2;
+    int c a+b;
+    int d a-b;
+    int e a b;
+    float f (float) a/b;
+    float media = (float) </2;
+    System.out.println("0 resultado da soma de "+a+"+"+b" é "+c);
+    .out.println("o resultado da subtração de "+a+"-" +b" é "+d);
+    System.out.println("O resultado da multiplicação de "+a+"x"b" é "te);
+    System.out.println("O resultado da divisão de "+a+"/"+b+" é "+f);
+    System.out.println("A media de "+a+" e "+b+" é "media);
+    System.out.println();
+    System.out.println("Assim como o sol derrete o gelo, a gentileza evapora mal entendidos, desconfianças e principalmente hostilidade. ");
+    }
+}
